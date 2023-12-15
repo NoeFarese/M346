@@ -1,0 +1,2 @@
+the dice shows 5 eyes
+the dice was rolled at 2023-11-16 13:01:17.704264 +0100 CET m=+0.000136168
